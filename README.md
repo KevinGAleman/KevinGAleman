@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KevinGAleman
+- 👀 I’m interested in solving big problems and growing strong engineering teams; bonus points if those problems involve building web services at scale (❤️ Azure, ❤️ .NET Core).
+- 🌱 I’m currently learning how to be more efficient with my time and with the time of those around me.
+- 💞️ I’m looking to collaborate on problems that you can't quite seem to put your finger on.
+- 📫 How to reach me -> You can find me on [LinkedIn](https://www.linkedin.com/in/kevingaleman/), or you can shoot me an [email](mailto:kevin@kgaleman.com).
